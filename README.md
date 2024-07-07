@@ -85,7 +85,33 @@ The Tokenizer is a necessary and pervasive component of Large Language Models (L
 
 ---
 
-Ongoing...
+**Lecture 9: Let's reproduce GPT-2**
+
+We reproduce the GPT-2 (124M) from scratch. This video covers the whole process: First we build the GPT-2 network, then we optimize its training to be really fast, then we set up the training run following the GPT-2 and GPT-3 paper and their hyperparameters, then we hit run, and come back the next morning to see our results, and enjoy some amusing model generations. Keep in mind that in some places this video builds on the knowledge from earlier videos in the Zero to Hero.
+
+- [YouTube video lecture](https://www.youtube.com/watch?v=l8pRSuU81PU)
+- [nanoGPT code](https://github.com/karpathy/build-nanogpt)
+
+---
+
+**Extra Lecture: Introduction to Transformers**
+
+Since their introduction in 2017, transformers have revolutionized Natural Language Processing (NLP). Now, transformers are finding applications all over Deep Learning, be it computer vision (CV), reinforcement learning (RL), Generative Adversarial Networks (GANs), Speech or even Biology. Among other things, transformers have enabled the creation of powerful language models like GPT-3 and were instrumental in DeepMind's recent AlphaFold2, that tackles protein folding.
+
+In this speaker series, we examine the details of how transformers work, and dive deep into the different kinds of transformers and how they're applied in different fields. We do this by inviting people at the forefront of transformers research across different domains for guest lectures.
+
+- [YouTube video lecture](https://www.youtube.com/watch?v=XfpMkf4rD6E)
+
+---
+
+**Extra Lecture: Intro to Large Language Models**
+
+This is a 1 hour general-audience introduction to Large Language Models: the core technical component behind systems like ChatGPT, Claude, and Bard. What they are, where they are headed, comparisons and analogies to present-day operating systems, and some of the security-related challenges of this new computing paradigm.
+
+- [YouTube video lecture](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [llama2 code](https://github.com/karpathy/llama2.c)
+
+---
 
 **License**
 
