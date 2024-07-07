@@ -113,6 +113,14 @@ This is a 1 hour general-audience introduction to Large Language Models: the cor
 
 ---
 
+**Extra Lecture: State of GPT**
+
+Learn about the training pipeline of GPT assistants like ChatGPT, from tokenization to pretraining, supervised finetuning, and Reinforcement Learning from Human Feedback (RLHF). Dive deeper into practical techniques and mental models for the effective use of these models, including prompting strategies, finetuning, the rapidly growing ecosystem of tools, and their future extensions.
+
+- [YouTube video lecture](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+
+---
+
 **License**
 
 MIT
